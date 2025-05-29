@@ -1,4 +1,4 @@
-        # 🎉 Event Management System
+## 🎉 Event Management System
 
 A comprehensive event management platform built with modern web technologies to streamline event creation, management, and attendance tracking.
 
